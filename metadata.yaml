@@ -1,0 +1,29 @@
+_repo: Ancient-Faiths-And-ModernA-Dissertation-upon-Worships-Legends-and-Divinities_38100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Inman, Thomas
+    birthdate: 1820
+    deathdate: 1876
+    gutenberg_agent_id: '39242'
+    url: http://www.gutenberg.org/2009/agents/39242
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38100'
+  lccn: '30017997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Religions'
+title: "Ancient Faiths And Modern\r\nA Dissertation upon Worships, Legends and Divinities\
+  \ in Central and Western Asia, Europe, and Elsewhere, Before the Christian Era.\
+  \ Showing Their Relations to Religious Customs as They Now Exist."
+url: http://www.gutenberg.org/ebooks/38100
